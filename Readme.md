@@ -1,5 +1,5 @@
 # ChatBot with LangChain and LLM
-This chatbot application is built using LangChain, Groq API, and Streamlit. The chatbot can handle chat sessions with persistent message histories, and responses are generated using the llama3-8b-8192 model via Groq.
+This project demonstrates the development of an intelligent chatbot leveraging LangChain for managing chat sessions and the LLM for enhanced data processing. Built with Streamlit for a user-friendly interface, the chatbot offers interactive conversations and effective information retrieval. Join me in exploring the capabilities of AI-driven dialogue systems!
 
 ![My Project Logo](img/Screenshot.png)
 
